@@ -40,42 +40,39 @@ The following activities are, in general, prohibited. Employees may be exempted 
 
 ### 4.3.1 System and Network Activities
 The following activities are strictly prohibited, with no exceptions:
-	1. Violations of the rights of any person or company protected by copyright, trade secret,patent or other intellectual property, or similar laws or regulations, including, but notlimited to, the installation or distribution of "pirated" or other software products that arenot appropriately licensed for use by <Company Name>.
-	2. Unauthorized copying of copyrighted material including, but not limited to, digitizationand distribution of photographs from magazines, books or other copyrighted sources,copyrighted music, and the installation of any copyrighted software for which <CompanyName> or the end user does not have an active license is strictly prohibited.
-	3. Accessing data, a server or an account for any purpose other than conducting <CompanyName> business, even if you have authorized access, is prohibited.
-	4. Exporting software, technical information, encryption software or technology, inviolation of international or regional export control laws, is illegal. The appropriatemanagement should be consulted prior to export of any material that is in question.
-	5. Introduction of malicious programs into the network or server (e.g., viruses, worms,Trojan horses, e-mail bombs, etc.).
-	6. Revealing your account password to others or allowing use of your account by others.This includes family and other household members when work is being done at home.
-	7. Using a <Company Name> computing asset to actively engage in procuring ortransmitting material that is in violation of sexual harassment or hostile workplace lawsin the user's local jurisdiction.
-	8. Making fraudulent offers of products, items, or services originating from any <CompanyName> account.
-	9. Making statements about warranty, expressly or implied, unless it is a part of normal jobduties.
-	10. Effecting security breaches or disruptions of network communication. Security breachesinclude, but are not limited to, accessing data of which the employee is not an intendedrecipient or logging into a server or account that the employee is not expressly authorizedto access, unless these duties are within the scope of regular duties. For purposes of thissection, "disruption" includes, but is not limited to, network sniffing, pinged floods,packet spoofing, denial of service, and forged routing information for malicious purposes.
-	11. Port scanning or security scanning is expressly prohibited unless prior notification toInfosec is made.
-	12. Executing any form of network monitoring which will intercept data not intended for theemployee's host, unless this activity is a part of the employee's normal job/duty.
-	13. Circumventing user authentication or security of any host, network or account.
-	14. Introducing honeypots, honeynets, or similar technology on the <Company Name>network.
-	15. Interfering with or denying service to any user other than the employee's host (forexample, denial of service attack).
-	16. Using any program/script/command, or sending messages of any kind, with the intent tointerfere with, or disable, a user's terminal session, via any means, locally or via theInternet/Intranet/Extranet.
-	17. Providing information about, or lists of, <Company Name> employees to parties outside<Company Name>. 
+1. Violations of the rights of any person or company protected by copyright, trade secret,patent or other intellectual property, or similar laws or regulations, including, but notlimited to, the installation or distribution of "pirated" or other software products that arenot appropriately licensed for use by <Company Name>.
+2. Unauthorized copying of copyrighted material including, but not limited to, digitizationand distribution of photographs from magazines, books or other copyrighted sources,copyrighted music, and the installation of any copyrighted software for which <CompanyName> or the end user does not have an active license is strictly prohibited.
+3. Accessing data, a server or an account for any purpose other than conducting <CompanyName> business, even if you have authorized access, is prohibited.
+4. Exporting software, technical information, encryption software or technology, inviolation of international or regional export control laws, is illegal. The appropriatemanagement should be consulted prior to export of any material that is in question.
+5. Introduction of malicious programs into the network or server (e.g., viruses, worms,Trojan horses, e-mail bombs, etc.).
+6. Revealing your account password to others or allowing use of your account by others.This includes family and other household members when work is being done at home.
+7. Using a <Company Name> computing asset to actively engage in procuring ortransmitting material that is in violation of sexual harassment or hostile workplace lawsin the user's local jurisdiction.
+8. Making fraudulent offers of products, items, or services originating from any <CompanyName> account.
+9. Making statements about warranty, expressly or implied, unless it is a part of normal jobduties.
+10. Effecting security breaches or disruptions of network communication. Security breachesinclude, but are not limited to, accessing data of which the employee is not an intendedrecipient or logging into a server or account that the employee is not expressly authorizedto access, unless these duties are within the scope of regular duties. For purposes of thissection, "disruption" includes, but is not limited to, network sniffing, pinged floods,packet spoofing, denial of service, and forged routing information for malicious purposes.
+11. Port scanning or security scanning is expressly prohibited unless prior notification toInfosec is made.
+12. Executing any form of network monitoring which will intercept data not intended for theemployee's host, unless this activity is a part of the employee's normal job/duty.
+13. Circumventing user authentication or security of any host, network or account.
+14. Introducing honeypots, honeynets, or similar technology on the <Company Name>network.
+15. Interfering with or denying service to any user other than the employee's host (forexample, denial of service attack).
+16. Using any program/script/command, or sending messages of any kind, with the intent tointerfere with, or disable, a user's terminal session, via any means, locally or via theInternet/Intranet/Extranet.
+17. Providing information about, or lists of, <Company Name> employees to parties outside<Company Name>. 
 
 ### 4.3.2 Email and Communication Activities
 When using company resources to access and use the Internet, users must realize they representthe company. Whenever employees state an affiliation to the company, they must also clearlyindicate that "the opinions expressed are my own and not necessarily those of the company".Questions may be addressed to the IT Department
 
-	1. Sending unsolicited email messages, including the sending of "junk mail" or otheradvertising material to individuals who did not specifically request such material (emailspam).
-	2. Any form of harassment via email, telephone or paging, whether through language,frequency, or size of messages.3. Unauthorized use, or forging, of email header information.
-	4. Solicitation of email for any other email address, other than that of the poster's account,with the intent to harass or to collect replies.
-	5. Creating or forwarding "chain letters", "Ponzi" or other "pyramid" schemes of any type.
-	6. Use of unsolicited email originating from within <Company Name>'s networks of otherInternet/Intranet/Extranet service providers on behalf of, or to advertise, any servicehosted by <Company Name> or connected via <Company Name>'s network.
-	7. Posting the same or similar non-business-related messages to large numbers of Usenetnewsgroups (newsgroup spam).
+1. Sending unsolicited email messages, including the sending of "junk mail" or otheradvertising material to individuals who did not specifically request such material (emailspam).
+2. Any form of harassment via email, telephone or paging, whether through language,frequency, or size of messages.3. Unauthorized use, or forging, of email header information.
+4. Solicitation of email for any other email address, other than that of the poster's account,with the intent to harass or to collect replies.
+5. Creating or forwarding "chain letters", "Ponzi" or other "pyramid" schemes of any type.
+6. Use of unsolicited email originating from within <Company Name>'s networks of otherInternet/Intranet/Extranet service providers on behalf of, or to advertise, any servicehosted by <Company Name> or connected via <Company Name>'s network.
+7. Posting the same or similar non-business-related messages to large numbers of Usenetnewsgroups (newsgroup spam).
 
-### 4.3.3 Blogging and Social Media1. 
-	1. Blogging by employees, whether using <Company Name>’s property and systems orpersonal computer systems, is also subject to the terms and restrictions set forth in this Policy. Limited and occasional use of <Company Name>’s systems to engage inblogging is acceptable, provided that it is done in a professional and responsible manner,does not otherwise violate <Company Name>’s policy, is not detrimental to <CompanyName>’s best interests, and does not interfere with an employee's regular work duties. Blogging from <Company Name>’s systems is also subject to monitoring.
-
-	2. <Company Name>’s Confidential Information policy also applies to blogging. As such,Employees are prohibited from revealing any <Company> confidential or proprietaryinformation, trade secrets or any other material covered by <Company>’s ConfidentialInformation policy when engaged in blogging.
-
-	3. Employees shall not engage in any blogging that may harm or tarnish the image,reputation and/or goodwill of <Company Name> and/or any of its employees. Employeesare also prohibited from making any discriminatory, disparaging, defamatory or harassing SANS Institute 2014 – All Rights Reserved Page 6Consensus Policy Resource Communitycomments when blogging or otherwise engaging in any conduct prohibited by <CompanyName>’s Non-Discrimination and Anti-Harassment policy.
-
-	4. Employees may also not attribute personal statements, opinions or beliefs to <CompanyName> when engaged in blogging. If an employee is expressing his or her beliefs and/oropinions in blogs, the employee may not, expressly or implicitly, represent themselves asan employee or representative of <Company Name>. Employees assume any and all riskassociated with blogging.5. Apart from following all laws pertaining to the handling and disclosure of copyrighted orexport controlled materials, <Company Name>’s trademarks, logos and any other<Company Name> intellectual property may also not be used in connection with anyblogging activity
+### 4.3.3 Blogging and Social Media 
+1. Blogging by employees, whether using <Company Name>’s property and systems orpersonal computer systems, is also subject to the terms and restrictions set forth in this Policy. Limited and occasional use of <Company Name>’s systems to engage inblogging is acceptable, provided that it is done in a professional and responsible manner,does not otherwise violate <Company Name>’s policy, is not detrimental to <CompanyName>’s best interests, and does not interfere with an employee's regular work duties. Blogging from <Company Name>’s systems is also subject to monitoring.
+2. <Company Name>’s Confidential Information policy also applies to blogging. As such,Employees are prohibited from revealing any <Company> confidential or proprietaryinformation, trade secrets or any other material covered by <Company>’s ConfidentialInformation policy when engaged in blogging.
+3. Employees shall not engage in any blogging that may harm or tarnish the image,reputation and/or goodwill of <Company Name> and/or any of its employees. Employeesare also prohibited from making any discriminatory, disparaging, defamatory or harassing SANS Institute 2014 – All Rights Reserved Page 6Consensus Policy Resource Communitycomments when blogging or otherwise engaging in any conduct prohibited by <CompanyName>’s Non-Discrimination and Anti-Harassment policy.
+4. Employees may also not attribute personal statements, opinions or beliefs to <CompanyName> when engaged in blogging. If an employee is expressing his or her beliefs and/oropinions in blogs, the employee may not, expressly or implicitly, represent themselves asan employee or representative of <Company Name>. Employees assume any and all riskassociated with blogging.5. Apart from following all laws pertaining to the handling and disclosure of copyrighted orexport controlled materials, <Company Name>’s trademarks, logos and any other<Company Name> intellectual property may also not be used in connection with anyblogging activity
 
 # 5. Policy Compliance
 
@@ -89,18 +86,18 @@ Any exception to the policy must be approved by the Infosec team in advance.
 An employee found to have violated this policy may be subject to disciplinary action, up to andincluding termination of employment.
 
 # 6. Related Standards, Policies and Processes
-	• Data Classification Policy
-	• Data Protection Standard
-	• Social Media Policy
-	• Minimum Access Policy
-	• Password Policy
+* Data Classification Policy
+* Data Protection Standard
+* Social Media Policy
+* Minimum Access Policy
+* Password Policy
 
 # 7. Definitions and Terms
 The following definition and terms can be found in the SANS Glossary located at:https://www.sans.org/security-resources/glossary-of-terms/
-	• Blogging
-	• Honeypot
-	• Honeynet
-	• Proprietary Information
-	• Spam
+* Blogging
+* Honeypot
+* Honeynet
+* Proprietary Information
+* Spam
 
 # 8. Revision History
