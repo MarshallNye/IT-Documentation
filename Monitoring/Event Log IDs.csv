@@ -1,0 +1,848 @@
+EventID,Source,LogName,EventType,Message,Severity
+9,%,%,0,%did not respond within the timeout period%,High
+11,%,%,0,%controller error%,High
+1000,%Microsoft-Windows-DHCP-Server%,%,0,%The DHCP service received the unknown option%,Critical
+1064,%Microsoft-Windows-DHCP-Server%,%,0,%There are no IP addresses available for BOOTP clients%,Critical
+1069,%Microsoft-Windows-DHCP-Server%,%,0,%Iashlpr cannot contact the NPS service%,Critical
+1070,%Microsoft-Windows-DHCP-Server%,%,0,%Iashlpr initialization failed%,Critical
+1142,%Microsoft-Windows-DHCP-Server%,%,0,%The DHCP server is unable to reach the NPS server%,Critical
+3,%Microsoft-Windows-DNS-Server-Service%,%,0,%The DNS server has shut down%,Critical
+10,%Microsoft-Windows-DNS-Server-Service%,%,0,%The DNS server could not start because it is dependent on the NTDS service which is not started%,Critical
+1006,%Microsoft-Windows-GroupPolicy%,%,0,%Windows could not authenticate to the Active Directory service on a domain controller%,Critical
+1007,%Microsoft-Windows-GroupPolicy%,%,0,%Windows could not determine the site associated with this computer%,Critical
+1053,%Microsoft-Windows-GroupPolicy%,%,0,%Windows could not resolve the user name%,Critical
+1058,%Microsoft-Windows-GroupPolicy%,%,0,%Windows attempted to read the file%domain controller and was not successful%,Critical
+1080,%Microsoft-Windows-GroupPolicy%,%,0,%Windows could not search the Active Directory organization unit hierarchy%,Critical
+1088,%Microsoft-Windows-GroupPolicy%,%,0,%Windows attempted to query the list of Group Policy objects and exceeded the maximum limit%,Critical
+1101,%Microsoft-Windows-GroupPolicy%,%,0,%Windows could not locate the directory object%,Critical
+1110,%Microsoft-Windows-GroupPolicy%,%,0,%Windows could not determine if the user and computer accounts are in the same forest%,Critical
+1129,%Microsoft-Windows-GroupPolicy%,%,0,% lack of network connectivity to a domain controller%,Critical
+1055,%Microsoft-Windows-GroupPolicy%,%,0,%Windows could not resolve the computer name%,Critical
+1054,%Microsoft-Windows-GroupPolicy%,%,0,%Windows could not obtain the name of a domain controller%,Critical
+15009,%Microsoft-Windows-HttpEvent%,%,0,%error occurred while initializing namespace reservations%,Critical
+1026,%Microsoft-Windows-IIS-W3SVC%,%,0,%World Wide Web Publishing Service (WWW Service) encountered an error when it tried to secure the ha,Critical
+1027,%Microsoft-Windows-IIS-W3SVC%,%,0,%request to enable the application pool failed%,Critical
+1084,%Microsoft-Windows-IIS-W3SVC%,%,0,%The HTTP.sys request to disable the application pool failed%,Critical
+2297,%Microsoft-Windows-IIS-W3SVC-WP%,%,0,%worker process for application pool% encountered an error%,Critical
+105,%Microsoft-Windows-NLB%,%,0,%Timer starvation has been detected%,Critical
+7013,%Microsoft-Windows-Search%,%,0,%update was paused because the disk% full%,Critical
+4935,%Microsoft-Windows-Security-Auditing%,%,0,%Replication failure begins%,Critical
+5028,%Microsoft-Windows-Security-Auditing%,%,0,%Service was unable to parse the new security policy%,Critical
+5029,%Microsoft-Windows-Security-Auditing%,%,0,%Service failed to initialize the driver%,Critical
+5030,%Microsoft-Windows-Security-Auditing%,%,0,%Windows Firewall Service failed to start%,Critical
+5034,%Microsoft-Windows-Security-Auditing%,%,0,%Windows Firewall Driver has been stopped%,Critical
+5035,%Microsoft-Windows-Security-Auditing%,%,0,%Windows Firewall Driver failed to start%,Critical
+5037,%Microsoft-Windows-Security-Auditing%,%,0,%Windows Firewall Driver detected critical runtime error%,Critical
+6008,%Microsoft-Windows-WER-SystemErrorReporting%,%,0,%previous system shutdown at time on date was unexpected%,Critical
+5008,%Microsoft-Windows-Windows Defender%,%,0,%engine has been terminated due to an unexpected error%,Critical
+16,%Microsoft-Windows-WindowsUpdateClient%,%,0,%Windows is unable to connect to the Automatic Updates service%,Critical
+29,%Microsoft-Windows-WindowsUpdateClient%,%,0,%Windows Update lost connectivity%,Critical
+32,%Microsoft-Windows-WindowsUpdateClient%,%,0,%Windows Update cannot connect to the server%,Critical
+38,%Microsoft-Windows-WindowsUpdateClient%,%,0,%Windows Update received a service stop request%,Critical
+4002,%Microsoft-Windows-WLAN-AutoConfig%,%,0,%WLAN AutoConfig service has failed to start%,Critical
+1112,%MSExchangeIS%,%,0,%has reached the maximum allowed size%,High
+9582,%MSExchangeIS%,%,0,%,High
+9665,%MSExchangeIS%,%,0,%memory settings%,High
+9685,%MSExchangeIS%,%,0,%,High
+9688,%MSExchangeIS%,%,0,%,High
+36,%NPS%,%,0,%remote RADIUS server%has not responded%,Critical
+4401,%NPS%,%,0,%Domain controller%not responsive%,Critical
+4402,%NPS%,%,0,%no domain controller available for domain%,Critical
+1200,%Storage Agents%,%,0,%,High
+9010,%tcpip%,%,0,%computer has exceeded the number of connections it can make to that remote computer%,Critical
+12,acpi,%,0,%could lead to system instability%,High
+1003,Active Directory,%,0,%,High
+1014,Active Directory,%,0,%,High
+1016,Active Directory,%,0,%,High
+1028,Active Directory,%,0,%,High
+1061,Active Directory,%,0,%,High
+1311,Active Directory,%,0,%,High
+1479,Active Directory,%,0,%,High
+8418,Active Directory,%,0,%,High
+301,Adaptec Storage Manager Agent,%,0,%,High
+309,Adaptec Storage Manager Agent,%,0,%,High
+401,Adaptec Storage Manager Agent,%,0,%,High
+338,Adaptec Storage Manager Agent,%,0,%,High
+117,adpu%,%,0,%port timeout due to prolonged inactivity%,High
+1,afamgt,%,0,%device%,High
+20,afamgt,%,0,%device%,High
+4098,afamgt,%,0,%,High
+1025,APCPBEAgent,%,0,%Shutdown In Progress%,High
+2000,APCPBEAgent,%,0,%UPS On Battery%,High
+3000,APCPBEAgent,%,0,%,High
+3003,APCPBEAgent,%,0,%UPS Battery Is Discharged%,High
+3030,APCPBEAgent,%,0,%Insufficient Runtime Available%,High
+3031,APCPBEAgent,%,0,%Output Load threshold Exceeded%,High
+26,Atapi,%,0,%out-of-date firmware%,High
+15,AutoEnrollment,%,0,%,High
+57745,Backup Exec,%,0,%,High
+34113,Backup Exec,Application,0,Backup Exec Alert: Job Failed%,Critical
+34114,Backup Exec,Application,0,Backup Exec Alert: Job Cancellation%,Critical
+0,Backup Exec,Application,0,Backup Exec Alert: IDR%,Critical
+65313,Backup Exec,Application,0,Backup Exec Alert: Tape Alert%,Critical
+0,Backup Exec,Application,0,Backup Exec Alert: Device Intervention%,Critical
+58057,Backup Exec,Application,0,Backup Exec Alert: Media Error%,Critical
+0,Backup Exec,Application,0,Backup Exec Alert: Media Warning%,Critical
+0,Backup Exec,Application,0,Backup Exec Alert: Media Intervention%,Critical
+0,Backup Exec,Application,0,Backup Exec Alert: Media Overwrite%,Critical
+0,Backup Exec,Application,0,Backup Exec Alert: Media Remove%,Critical
+0,Backup Exec,Application,0,Backup Exec Alert: Media Insert%,Critical
+0,Backup Exec,Application,0,%An error occurred%,Critical
+0,Backup Exec,Application,0,%corrupt%,Critical
+0,Backup Exec,Application,0,%failed%,Critical
+0,Backup Exec,Application,0,%could not connect%,Critical
+0,Backup Exec,Application,0,%could not access%,Critical
+0,Backup Exec,Application,0,%not enough disk space%,Critical
+0,Backup Exec,Application,0,%buffer overflow%,Critical
+0,Backup Exec,Application,0,%could not start%,Critical
+0,Backup Exec,Application,0,%error%,Critical
+0,Backup Exec,Application,0,%unable to register%,Critical
+0,Backup Exec,Application,0,%unable to connect%,Critical
+0,Backup Exec,Application,0,%inconsistency%,Critical
+0,Backup Exec,Application,0,%unable to aquire%,Critical
+0,Backup Exec,Application,0,%service was stopped%,Critical
+0,Backup Exec,Application,0,%did not start%,Critical
+0,Backup Exec,Application,0,%cannot start%,Critical
+0,Backup Exec,Application,0,%must run under%,Critical
+0,Backup Exec,Application,0,%timeout%elapsed%,Critical
+0,Backup Exec,Application,0,%unable to determine%,Critical
+0,Backup Exec,Application,0,%unable to get%,Critical
+0,Backup Exec,Application,0,%unable to retrieve%,Critical
+0,Backup Exec,Application,0,%tape drive%problems%,Critical
+0,Backup Exec,Application,0,%risk%,Critical
+0,Backup Exec,Application,0,%damaged%,Critical
+0,Backup Exec,Application,0,%faulty%,Critical
+0,Backup Exec,Application,0,%preventive%,Critical
+0,Backup Exec,Application,0,%invalid%,Critical
+0,Backup Exec,Application,0,%end of%life%,Critical
+0,Backup Exec,Application,0,%corrupted%,Critical
+0,Backup Exec,Application,0,%hardware fault%,Critical
+0,Backup Exec,Application,0,%problem%,BU
+0,Backup Exec,Application,0,%cleaning%,Critical
+0,Backup Exec,Application,0,%write-protected%,Critical
+0,Backup Exec,Application,0,%Environmental conditions%,Critical
+0,Backup Exec,Application,0,%hardware failure%,Critical
+0,Backup Exec,Application,0,%could not%,Critical
+0,Backup Exec,Application,0,%cannot operate%,Critical
+0,Backup Exec,Application,0,Backup Exec Alert: Media%,Critical
+0,Backup Exec,Application,0,%write protected%,Critical
+0,Backup Exec,Application,0,%mismatched%,Critical
+0,Backup Exec,Application,0,%overwriteable media%,Critical
+0,Backup Exec,Application,0,%cannot use%,Critical
+0,Backup Exec,Application,0,%did not%,Critical
+0,Backup Exec,Application,0,%Warning%,Critical
+0,Backup Exec,Application,0,%unable to%,Critical
+0,Backup Exec,Application,0,%cannot be established%,Critical
+0,Backup Exec,Application,0,%lost%,Critical
+0,Backup Exec,Application,0,Port 3527%,Critical
+0,Backup Exec,Application,0,%exception%,Critical
+0,Backup Exec,Application,0,%cannot communicate%,Critical
+20406,BlackBerry Controller,%,0,%,Critical
+20641,BlackBerry Policy Service,%,0,%,High
+16063,BlackBerry Synchronization Service,%,0,%,Critical
+8032,Browser,%,0,%The browser service has failed to retrieve the backup%,High
+3025,CDM,%,0,%,High
+103,Citrix EdgeSight for Presentation Server,%,0,%,High
+9032,Citrix ICA Service,%,0,%,High
+1019,Citrix Installer,%,0,%,High
+1540,Citrix Metaframe Conferencing Manager,%,0,%,High
+1541,Citrix Metaframe Conferencing Manager,%,0,%,High
+2,Citrix Resource Management,%,0,%,High
+4,Citrix Resource Management,%,0,%,High
+10,Citrix Resource Management,%,0,%,High
+384,Citrix Resource Management,%,0,%,High
+137,Citrix Secure Gateway,%,0,%,High
+10102,Citrix SSL Relay,%,0,%,High
+10112,Citrix SSL Relay,%,0,%,High
+10123,Citrix SSL Relay,%,0,%,High
+10179,Citrix SSL Relay,%,0,%,High
+10184,Citrix SSL Relay,%,0,%,High
+10187,Citrix SSL Relay,%,0,%,High
+23,Citrix System Monitoring Agent,%,0,%,High
+3299,Citrix XTE Server,%,0,%,High
+716,CITRIX_LicenseServer,%,0,%,High
+764,CITRIX_LicenseServer,%,0,%,High
+1053,ClusSvc,%,0,%,Critical
+1205,ClusSvc ,%,0,%,High
+24597,CPQCISSE,%,0,%failed%,High
+454,DFSR,%,0,%,High
+1010,DFSR,%,0,%,High
+1202,DFSR,%,0,%,High
+2004,DFSR,%,0,%,High
+4111,DFSR,%,0,%,High
+2104,DFSR,%,0,%,High
+1053,DhcpServer,%,0,%,Critical
+7,Disk,%,0,%has a bad block%,High
+11,Disk,%,0,%The driver detected a controller error%,High
+41,Disk,%,0,%The file system structure on the disk is corrupt and unusable%,High
+51,Disk,%,0,%An Error was detected%,High
+29,diskeeper,%,0,%File System Inconsistency detected%,High
+111,DNS,%,0,%,High
+3135,DNS,%,0,%,High
+4000,DNS,%,0,%,High
+4015,DNS,%,0,%,High
+4016,DNS,%,0,%,High
+11000,DnsApi,%,0,%,High
+11001,DnsApi,%,0,%,High
+11002,DnsApi,%,0,%,High
+11003,DnsApi,%,0,%,High
+11004,DnsApi,%,0,%,High
+11005,DnsApi,%,0,%,High
+11006,DnsApi,%,0,%,High
+11007,DnsApi,%,0,%,High
+11050,DnsApi,%,0,%,High
+459,ESE%,%,0,%,Critical
+474,ESE%,%,0,%,Critical
+482,ESE%,%,0,%,Critical
+6000,Eventlog,%,0,%,High
+6008,Eventlog,%,0,%,High
+121,ExchangeStoreDB,Application,1,%copy on this server appears to%,Critical
+142,ExchangeStoreDB,Application,1,%server encountered an error%,Critical
+1001,EXPROX,%,0,%authentication mechanism is not secure%,High
+0,ftdisk,%,0,%,High
+1024,HP Systems Insight Manager,%,0,%System Information Agent: Health: A cache accelerator parity error indicates a cache module must be,Critical
+1034,HP Systems Insight Manager,%,0,%A memory board or cartridge bus error has been detected in the memory subsystem. User Action: repla,Critical
+1071,HP Systems Insight Manager,%,0,%System Information Agent: Health: Correctable memory error detected. The memory module should be re,Critical
+1072,HP Systems Insight Manager,%,0,%System Information Agent: Health: The tracking of correctable memory errors has been disabled. Valu,Critical
+1082,HP Systems Insight Manager,%,0,%System Information Agent: Health: Temperature Failure Value%,Critical
+1083,HP Systems Insight Manager,%,0,%System Information Agent: Health: Temperature Degraded Value%,Critical
+1085,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fan Failure Value%,Critical
+1086,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fan Degraded Value%,Critical
+1088,HP Systems Insight Manager,%,0,%System Information Agent: Health: CPU Fan Failure Value%,Critical
+1092,HP Systems Insight Manager,%,0,%System Information Agent: Health: Post Error Detected Post Error%,Critical
+1103,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Power Supply Degraded Value%,Critical
+1114,HP Systems Insight Manager,%,0,%System Information Agent: Standard Equipment: CPU passed internal corrected error threshold. Slot%,Critical
+1115,HP Systems Insight Manager,%,0,%System Information Agent: The computer cover has been removed since last system start up%,Critical
+1123,HP Systems Insight Manager,%,0,%System Information Agent: Health: Post Errors Detected%,Critical
+1124,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Power Supply Degraded Chassis%,Critical
+1125,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Power Supply Failed Chassis%,Critical
+1126,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Power Supply Redundancy Lost Chassis%,Critical
+1128,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Power Supply Removed Chassis%,Critical
+1129,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Fan Degraded Chassis%,Critical
+1130,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Fan Failed Chassis%,Critical
+1131,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Fan Redundancy Lost Chassis%,Critical
+1133,HP Systems Insight Manager,%,0,%System Information Agent: Health: System Fault Tolerant Fan Removed Chassis%,Critical
+1134,HP Systems Insight Manager,%,0,%System Information Agent: Health: Temperature Failure Chassis%,Critical
+1135,HP Systems Insight Manager,%,0,%System Information Agent: Health: Temperature Degraded Chassis%,Critical
+1137,HP Systems Insight Manager,%,0,%System Information Agent: Health: Power Converter Degraded Chassis%,Critical
+1138,HP Systems Insight Manager,%,0,%System Information Agent: Health: Power Converter Failed Chassis%,Critical
+1139,HP Systems Insight Manager,%,0,%System Information Agent: Health: Power Converters are no longer redundant Chassis%,Critical
+1140,HP Systems Insight Manager,%,0,%System Information Agent: Health: Hot Plug Board removed Chassis%,Critical
+1142,HP Systems Insight Manager,%,0,%System Information Agent: Health: Hot Plug Board failed Chassis%,Critical
+1,HPQILO2,%,0,%Power supply 1 has failed%,High
+5,HPQILO2,%,0,%The power subsystem is now in a non-redundant state%,High
+11,kdc,%,0,,High
+123,kscript%,%,0,%,
+201,LicenseService,%,0,%,High
+70,Microsoft-SharePoint Products-SharePoint Foundatio,%,0,The mount operation for the gatherer application%,High
+10,Microsoft-Windows-Backup,%,0,%,High
+161,Microsoft-Windows-Backup,%,0,%,High
+195,Microsoft-Windows-Backup,%,0,%,High
+196,Microsoft-Windows-Backup,%,0,%,High
+197,Microsoft-Windows-Backup,%,0,%,High
+198,Microsoft-Windows-Backup,%,0,%,High
+199,Microsoft-Windows-Backup,%,0,%,High
+243,Microsoft-Windows-Backup,%,0,%,High
+244,Microsoft-Windows-Backup,%,0,%,High
+245,Microsoft-Windows-Backup,%,0,%,High
+707,Microsoft-Windows-Backup,%,0,%,High
+708,Microsoft-Windows-Backup,%,0,%,High
+709,Microsoft-Windows-Backup,%,0,%,High
+710,Microsoft-Windows-Backup,%,0,%,High
+711,Microsoft-Windows-Backup,%,0,%,High
+772,Microsoft-Windows-Backup,%,0,%,High
+773,Microsoft-Windows-Backup,%,0,%,High
+774,Microsoft-Windows-Backup,%,0,%,High
+544,Microsoft-Windows-Backup,Application,1,The backup operation that started at '?2013?-?12?-?17T04:02:26.626273100Z' has failed because the W%,High
+1020,Microsoft-Windows-DHCP-Server,%,0,%,High
+1063,Microsoft-Windows-DHCP-Server,%,0,%,High
+5,Microsoft-Windows-Diagnosis-DPS,%,0,%,High
+100,Microsoft-Windows-Diagnosis-DPS,%,0,%,High
+105,Microsoft-Windows-Diagnosis-DPS,%,0,%,High
+135,Microsoft-Windows-Diagnosis-DPS,%,0,%,High
+165,Microsoft-Windows-Diagnosis-DPS,%,0,%,High
+170,Microsoft-Windows-Diagnosis-DPS,%,0,%,High
+175,Microsoft-Windows-Diagnosis-DPS,%,0,%,High
+185,Microsoft-Windows-Diagnosis-DPS,%,0,%,High
+111,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+403,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+404,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+405,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+406,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+407,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+1001,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4000,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4001,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4002,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4003,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4004,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4007,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4011,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4012,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4013,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4014,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4015,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4016,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4018,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+4510,Microsoft-Windows-DNS-Server-Service,%,0,%,High
+1002,Microsoft-Windows-GroupPolicy,%,0,%,High
+1030,Microsoft-Windows-GroupPolicy,%,0,%,High
+1052,Microsoft-Windows-GroupPolicy,%,0,%,High
+1079,Microsoft-Windows-GroupPolicy,%,0,%,High
+1089,Microsoft-Windows-GroupPolicy,%,0,%,High
+1090,Microsoft-Windows-GroupPolicy,%,0,%,High
+1097,Microsoft-Windows-GroupPolicy,%,0,%,High
+1109,Microsoft-Windows-GroupPolicy,%,0,%,High
+15010,Microsoft-Windows-HttpEvent,%,0,%,High
+8193,Microsoft-Windows-IDMU-PSync,%,0,%,High
+8195,Microsoft-Windows-IDMU-PSync,%,0,%,High
+8196,Microsoft-Windows-IDMU-PSync,%,0,%,High
+8201,Microsoft-Windows-IDMU-PSync,%,0,%,High
+8210,Microsoft-Windows-IDMU-PSync,%,0,%,High
+8214,Microsoft-Windows-IDMU-PSync,%,0,%,High
+16386,Microsoft-Windows-IDMU-PSync,%,0,%,High
+16388,Microsoft-Windows-IDMU-PSync,%,0,%,High
+8194,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8195,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8196,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8198,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8199,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8200,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8201,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8208,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8209,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8211,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8212,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8213,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8232,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+8241,Microsoft-Windows-IDMU-ServerForNIS,%,0,%,High
+9000,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9001,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9002,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9003,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9004,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9005,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9006,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9007,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9008,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9009,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9010,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9011,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9012,Microsoft-Windows-IIS-APPHOSTSVC,%,0,%,High
+9,Microsoft-Windows-IIS-FTP,%,0,%,High
+15,Microsoft-Windows-IIS-FTP,%,0,%,High
+16,Microsoft-Windows-IIS-FTP,%,0,%,High
+1000,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1001,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1002,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1003,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1004,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1005,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1006,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1007,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1100,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1101,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1102,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1105,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1106,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1107,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1300,Microsoft-Windows-IIS-IISManager,%,0,%,High
+1901,Microsoft-Windows-IIS-IISManager,%,0,%,High
+3206,Microsoft-Windows-IIS-IISReset,%,0,%,High
+1003,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1004,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1005,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1007,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1016,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1029,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1032,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1033,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1034,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1035,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1042,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1043,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1044,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1072,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1086,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1087,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1095,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1096,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1097,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1098,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1099,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1129,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1130,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1131,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1168,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1172,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+1174,Microsoft-Windows-IIS-W3SVC,%,0,%,High
+2275,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2283,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2284,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2285,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2286,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2287,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2288,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2289,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2290,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2291,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2292,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2299,Microsoft-Windows-IIS-W3SVC-WP,%,0,%,High
+2262,Microsoft-Windows-IIS-WMSVC,%,0,%,High
+2263,Microsoft-Windows-IIS-WMSVC,%,0,%,High
+2271,Microsoft-Windows-IIS-WMSVC,%,0,%,High
+8001,Microsoft-Windows-IIS-WMSVC,%,0,%,High
+14003,Microsoft-Windows-LanGPA,%,0,%,High
+5,Microsoft-Windows-NLB,%,0,%,High
+6,Microsoft-Windows-NLB,%,0,%,High
+14,Microsoft-Windows-NLB,%,0,%,High
+16,Microsoft-Windows-NLB,%,0,%,High
+17,Microsoft-Windows-NLB,%,0,%,High
+18,Microsoft-Windows-NLB,%,0,%,High
+20,Microsoft-Windows-NLB,%,0,%,High
+21,Microsoft-Windows-NLB,%,0,%,High
+22,Microsoft-Windows-NLB,%,0,%,High
+25,Microsoft-Windows-NLB,%,0,%,High
+31,Microsoft-Windows-NLB,%,0,%,High
+32,Microsoft-Windows-NLB,%,0,%,High
+34,Microsoft-Windows-NLB,%,0,%,High
+35,Microsoft-Windows-NLB,%,0,%,High
+37,Microsoft-Windows-NLB,%,0,%,High
+39,Microsoft-Windows-NLB,%,0,%,High
+41,Microsoft-Windows-NLB,%,0,%,High
+73,Microsoft-Windows-NLB,%,0,%,High
+74,Microsoft-Windows-NLB,%,0,%,High
+75,Microsoft-Windows-NLB,%,0,%,High
+79,Microsoft-Windows-NLB,%,0,%,High
+83,Microsoft-Windows-NLB,%,0,%,High
+86,Microsoft-Windows-NLB,%,0,%,High
+87,Microsoft-Windows-NLB,%,0,%,High
+88,Microsoft-Windows-NLB,%,0,%,High
+91,Microsoft-Windows-NLB,%,0,%,High
+92,Microsoft-Windows-NLB,%,0,%,High
+93,Microsoft-Windows-NLB,%,0,%,High
+95,Microsoft-Windows-NLB,%,0,%,High
+97,Microsoft-Windows-NLB,%,0,%,High
+99,Microsoft-Windows-NLB,%,0,%,High
+102,Microsoft-Windows-NLB,%,0,%,High
+103,Microsoft-Windows-NLB,%,0,%,High
+104,Microsoft-Windows-NLB,%,0,%,High
+106,Microsoft-Windows-NLB,%,0,%,High
+107,Microsoft-Windows-NLB,%,0,%,High
+108,Microsoft-Windows-NLB,%,0,%,High
+109,Microsoft-Windows-NLB,%,0,%,High
+110,Microsoft-Windows-NLB,%,0,%,High
+111,Microsoft-Windows-NLB,%,0,%,High
+112,Microsoft-Windows-NLB,%,0,%,High
+4096,Microsoft-Windows-NLB,%,0,%,High
+1010,Microsoft-Windows-Resource-Exhaustion-Resolver,%,0,%,High
+1011,Microsoft-Windows-Resource-Exhaustion-Resolver,%,0,%,High
+3025,Microsoft-Windows-Search,%,0,%,High
+3026,Microsoft-Windows-Search,%,0,%,High
+4654,Microsoft-Windows-Security-Auditing,%,0,%,High
+4771,Microsoft-Windows-Security-Auditing,%,0,%,High
+4772,Microsoft-Windows-Security-Auditing,%,0,%,High
+4773,Microsoft-Windows-Security-Auditing,%,0,%,High
+4775,Microsoft-Windows-Security-Auditing,%,0,%,High
+4777,Microsoft-Windows-Security-Auditing,%,0,%,High
+4881,Microsoft-Windows-Security-Auditing,%,0,%,High
+4960,Microsoft-Windows-Security-Auditing,%,0,%,High
+4961,Microsoft-Windows-Security-Auditing,%,0,%,High
+4962,Microsoft-Windows-Security-Auditing,%,0,%,High
+4963,Microsoft-Windows-Security-Auditing,%,0,%,High
+4978,Microsoft-Windows-Security-Auditing,%,0,%,High
+4983,Microsoft-Windows-Security-Auditing,%,0,%,High
+4984,Microsoft-Windows-Security-Auditing,%,0,%,High
+5025,Microsoft-Windows-Security-Auditing,%,0,%,High
+5121,Microsoft-Windows-Security-Auditing,%,0,%,High
+5453,Microsoft-Windows-Security-Auditing,%,0,%,High
+5472,Microsoft-Windows-Security-Auditing,%,0,%,High
+5474,Microsoft-Windows-Security-Auditing,%,0,%,High
+5480,Microsoft-Windows-Security-Auditing,%,0,%,High
+5483,Microsoft-Windows-Security-Auditing,%,0,%,High
+5484,Microsoft-Windows-Security-Auditing,%,0,%,High
+301,Microsoft-Windows-TaskScheduler,%,0,%,High
+303,Microsoft-Windows-TaskScheduler,%,0,%,High
+307,Microsoft-Windows-TaskScheduler,%,0,%,High
+315,Microsoft-Windows-TaskScheduler,%,0,%,High
+1051,Microsoft-Windows-TerminalServices-RemoteConnectionManager,%,0,%,High
+1052,Microsoft-Windows-TerminalServices-RemoteConnectionManager,%,0,%,High
+5002,Microsoft-Windows-WAS,%,0,%,High
+5009,Microsoft-Windows-WAS,%,0,%,High
+5010,Microsoft-Windows-WAS,%,0,%,High
+5011,Microsoft-Windows-WAS,%,0,%,High
+5012,Microsoft-Windows-WAS,%,0,%,High
+5013,Microsoft-Windows-WAS,%,0,%,High
+5014,Microsoft-Windows-WAS,%,0,%,High
+5015,Microsoft-Windows-WAS,%,0,%,High
+5021,Microsoft-Windows-WAS,%,0,%,High
+5025,Microsoft-Windows-WAS,%,0,%,High
+5030,Microsoft-Windows-WAS,%,0,%,High
+5036,Microsoft-Windows-WAS,%,0,%,High
+5039,Microsoft-Windows-WAS,%,0,%,High
+5041,Microsoft-Windows-WAS,%,0,%,High
+5042,Microsoft-Windows-WAS,%,0,%,High
+5043,Microsoft-Windows-WAS,%,0,%,High
+5050,Microsoft-Windows-WAS,%,0,%,High
+5051,Microsoft-Windows-WAS,%,0,%,High
+5053,Microsoft-Windows-WAS,%,0,%,High
+5054,Microsoft-Windows-WAS,%,0,%,High
+5055,Microsoft-Windows-WAS,%,0,%,High
+5056,Microsoft-Windows-WAS,%,0,%,High
+5057,Microsoft-Windows-WAS,%,0,%,High
+5058,Microsoft-Windows-WAS,%,0,%,High
+5059,Microsoft-Windows-WAS,%,0,%,High
+5060,Microsoft-Windows-WAS,%,0,%,High
+5061,Microsoft-Windows-WAS,%,0,%,High
+5063,Microsoft-Windows-WAS,%,0,%,High
+5064,Microsoft-Windows-WAS,%,0,%,High
+5066,Microsoft-Windows-WAS,%,0,%,High
+5067,Microsoft-Windows-WAS,%,0,%,High
+5070,Microsoft-Windows-WAS,%,0,%,High
+5074,Microsoft-Windows-WAS,%,0,%,High
+5075,Microsoft-Windows-WAS,%,0,%,High
+5076,Microsoft-Windows-WAS,%,0,%,High
+5077,Microsoft-Windows-WAS,%,0,%,High
+5078,Microsoft-Windows-WAS,%,0,%,High
+5079,Microsoft-Windows-WAS,%,0,%,High
+5080,Microsoft-Windows-WAS,%,0,%,High
+5081,Microsoft-Windows-WAS,%,0,%,High
+5082,Microsoft-Windows-WAS,%,0,%,High
+5085,Microsoft-Windows-WAS,%,0,%,High
+5088,Microsoft-Windows-WAS,%,0,%,High
+5091,Microsoft-Windows-WAS,%,0,%,High
+5092,Microsoft-Windows-WAS,%,0,%,High
+5093,Microsoft-Windows-WAS,%,0,%,High
+5094,Microsoft-Windows-WAS,%,0,%,High
+5100,Microsoft-Windows-WAS,%,0,%,High
+5101,Microsoft-Windows-WAS,%,0,%,High
+5102,Microsoft-Windows-WAS,%,0,%,High
+5103,Microsoft-Windows-WAS,%,0,%,High
+5104,Microsoft-Windows-WAS,%,0,%,High
+5105,Microsoft-Windows-WAS,%,0,%,High
+5106,Microsoft-Windows-WAS,%,0,%,High
+5107,Microsoft-Windows-WAS,%,0,%,High
+5108,Microsoft-Windows-WAS,%,0,%,High
+5117,Microsoft-Windows-WAS,%,0,%,High
+5118,Microsoft-Windows-WAS,%,0,%,High
+5127,Microsoft-Windows-WAS,%,0,%,High
+5132,Microsoft-Windows-WAS,%,0,%,High
+5136,Microsoft-Windows-WAS,%,0,%,High
+5137,Microsoft-Windows-WAS,%,0,%,High
+5138,Microsoft-Windows-WAS,%,0,%,High
+5139,Microsoft-Windows-WAS,%,0,%,High
+5140,Microsoft-Windows-WAS,%,0,%,High
+5142,Microsoft-Windows-WAS,%,0,%,High
+5143,Microsoft-Windows-WAS,%,0,%,High
+5144,Microsoft-Windows-WAS,%,0,%,High
+5145,Microsoft-Windows-WAS,%,0,%,High
+5146,Microsoft-Windows-WAS,%,0,%,High
+5147,Microsoft-Windows-WAS,%,0,%,High
+5148,Microsoft-Windows-WAS,%,0,%,High
+5150,Microsoft-Windows-WAS,%,0,%,High
+5151,Microsoft-Windows-WAS,%,0,%,High
+5152,Microsoft-Windows-WAS,%,0,%,High
+5153,Microsoft-Windows-WAS,%,0,%,High
+5158,Microsoft-Windows-WAS,%,0,%,High
+5159,Microsoft-Windows-WAS,%,0,%,High
+5160,Microsoft-Windows-WAS,%,0,%,High
+5161,Microsoft-Windows-WAS,%,0,%,High
+5163,Microsoft-Windows-WAS,%,0,%,High
+5164,Microsoft-Windows-WAS,%,0,%,High
+5165,Microsoft-Windows-WAS,%,0,%,High
+5169,Microsoft-Windows-WAS,%,0,%,High
+5170,Microsoft-Windows-WAS,%,0,%,High
+5171,Microsoft-Windows-WAS,%,0,%,High
+5172,Microsoft-Windows-WAS,%,0,%,High
+5173,Microsoft-Windows-WAS,%,0,%,High
+5174,Microsoft-Windows-WAS,%,0,%,High
+5175,Microsoft-Windows-WAS,%,0,%,High
+5177,Microsoft-Windows-WAS,%,0,%,High
+5178,Microsoft-Windows-WAS,%,0,%,High
+5179,Microsoft-Windows-WAS,%,0,%,High
+5180,Microsoft-Windows-WAS,%,0,%,High
+5181,Microsoft-Windows-WAS,%,0,%,High
+5182,Microsoft-Windows-WAS,%,0,%,High
+5183,Microsoft-Windows-WAS,%,0,%,High
+5187,Microsoft-Windows-WAS,%,0,%,High
+5188,Microsoft-Windows-WAS,%,0,%,High
+5189,Microsoft-Windows-WAS,%,0,%,High
+5191,Microsoft-Windows-WAS,%,0,%,High
+5186,Microsoft-Windows-WAS,%,0,%,High
+7001,Microsoft-Windows-WAS-ListenerAdapter,%,0,%,High
+7002,Microsoft-Windows-WAS-ListenerAdapter,%,0,%,High
+7004,Microsoft-Windows-WAS-ListenerAdapter,%,0,%,High
+7005,Microsoft-Windows-WAS-ListenerAdapter,%,0,%,High
+7006,Microsoft-Windows-WAS-ListenerAdapter,%,0,%,High
+21,Microsoft-Windows-WindowsUpdateClient,%,0,%,High
+22,Microsoft-Windows-WindowsUpdateClient,%,0,%,High
+10004,Microsoft-Windows-WLAN-AutoConfig,%,0,%,High
+5612,Microsoft-Windows-WMI,%,0,%,High
+8138,MSADC,%,0,%directory updates to or from the server can not be replicated%,Critical
+1002,MSExchange%,%,0,%Microsoft Exchange Site Replication Service database [EDB] could not be intialized%,Critical
+1003,MSExchange%,%,0,%The disk is full. Attempting to stop the Microsoft Exchange Information Store service%,Critical
+1012,MSExchange%,%,0,Exchange Virtual Server <server name> stopped.,Critical
+1022,MSExchange%,%,0,%,High
+1113,MSExchange%,%,0,%The log disk is full. Attempting to stop the Microsoft Exchange Information Store service%,Critical
+1159,MSExchange%,%,0,%,Critical
+1309,MSExchange%,%,0,%LDAP SSL protocol failed with error 10048%,High
+1333,MSExchange%,%,0,%Verify that the anonymous account password is valid%,High
+1400,MSExchange%,%,0,%Microsoft Exchange Site Replication Service could not initialize%,High
+2050,MSExchange%,%,0,%The shared memory heap could not be created%,Critical
+2064,MSExchange%,%,0,%,High
+2069,MSExchange%,%,0,%,High
+2102,MSExchange%,%,0,%All Domain Controller Servers in use are not responding%,High
+2103,MSExchange%,%,0,%All Global Catalog Servers in use are not responding%,High
+2104,MSExchange%,%,0,%,High
+6005,MSExchange%,%,0,%,Critical
+6006,MSExchange%,%,0,%,High
+7200,MSExchange%,%,0,%,High
+8206,MSExchange%,%,0,%Unable to prepare message table for polling thread processing on virtual machine%,High
+8207,MSExchange%,%,0,%Error updating public folders%,High
+8213,MSExchange%,%,0,%System Attendant Service failed to create session%,High
+9004,MSExchange%,%,0,%,Critical
+9175,MSExchange%,%,0,%,Critical
+9518,MSExchange%,%,0,%,Critical
+9582,MSExchange%,%,0,%,Critical
+9690,MSExchange%,%,0,%has exceeded the size limit%,Critical
+12800,MSExchange%,%,0,%,Critical
+12014,MSExchange%,%,0,%,High
+8207,MSExchangeFBPublish,Application,1,%Error updating public folder with free/busy information%,High
+9548,MSExchangeIS,%,0,%,High
+9689,MSExchangeIS Mailbox Store,%,0,%,High
+1216,MSExchangeIS Mailbox Store,Application,0,%,Critical
+9307,MSExchangeMTA,%,0,%,High
+4114,MSExchangeRepl,Application,2,%health check failed%,Critical
+4126,MSExchangeRepl,Application,1,%encountered an error while attempting to start a replica%,Critical
+4057,MSExchangeRepl,Application,1,%encountered an unexpected error in log replay for%,Critical
+2060,MSExchangeRepl,Application,1,The Microsoft Exchange Replication service encountered a transient error while attempting to start%,Critical
+4018,MSExchangeRepl,Application,1,%failed to complete all necessary actions for system%,Critical
+1005,MSExchangeSA,%,0,%,Critical
+7004,MSExchangeTransport,%,0,The activation of all modules took longer than expected to complete%,Critical
+602,MSSQLServer%,%,0,%,High
+701,MSSQLServer%,%,0,%,High
+823,MSSQLServer%,%,0,%,Critical
+824,MSSQLServer%,%,0,%,High
+832,MSSQLServer%,%,0,%,High
+833,MSSQLServer%,%,0,%,High
+3314,MSSQLServer%,%,0,%,High
+4014,MSSQLServer%,%,0,%,High
+5124,MSSQLServer%,%,0,%,High
+5173,MSSQLServer%,%,0,%,High
+5242,MSSQLServer%,%,0,%,High
+5243,MSSQLServer%,%,0,%,High
+8355,MSSQLServer%,%,0,%,High
+9001,MSSQLServer%,%,0,%,Critical
+9002,MSSQLServer%,%,0,%,Critical
+9003,MSSQLServer%,%,0,%,Critical
+17052,MSSQLServer%,%,0,%,High
+17053,MSSQLServer%,%,0,%,High
+17187,MSSQLServer%,%,0,%,High
+18210,MSSQLServer%,%,0,%,High
+19011,MSSQLServer%,%,0,%,High
+4319,netbt,%,0,%,High
+4320,netbt,%,0,%,High
+5719,NETLOGON,%,0,%,High
+22,NPS,%,0,%,High
+23,NPS,%,0,%,High
+24,NPS,%,0,%RADIUS Proxy could not resolve the name of remote RADIUS server%,Critical
+25,NPS,%,0,%,High
+33,NPS,%,0,%,High
+34,NPS,%,0,%,High
+43,NPS,%,0,%,High
+44,NPS,%,0,%,High
+8019,NTBackup,%,0,%,High
+8017,NTBackup,%,0,%,High
+1203,NTDS Replication,%,0,%,High
+1014,NTDS%,%,0,%,High
+1017,NTDS%,%,0,%,High
+1021,NTDS%,%,0,%,High
+1084,NTDS%,%,0,%,High
+1085,NTDS%,%,0,%,High
+1134,NTDS%,%,0,%,High
+1311,NTDS%,%,0,%,High
+1411,NTDS%,%,0,%,High
+1435,NTDS%,%,0,%,High
+1450,NTDS%,%,0,%,High
+1479,NTDS%,%,0,%,High
+1566,NTDS%,%,0,%,High
+1645,NTDS%,%,0,%,High
+1663,NTDS%,%,0,%,High
+1699,NTDS%,%,0,%,High
+1791,NTDS%,%,0,%,High
+1861,NTDS%,%,0,%,High
+1863,NTDS%,%,0,%,High
+1864,NTDS%,%,0,%,High
+1865,NTDS%,%,0,%,High
+1919,NTDS%,%,0,%,High
+1925,NTDS%,%,0,%,High
+1964,NTDS%,%,0,%,High
+1977,NTDS%,%,0,%,High
+1979,NTDS%,%,0,%,High
+1988,NTDS%,%,0,%,High
+2001,NTDS%,%,0,%,High
+2002,NTDS%,%,0,%,High
+2011,NTDS%,%,0,%,High
+2016,NTDS%,%,0,%,High
+2023,NTDS%,%,0,%,High
+2042,NTDS%,%,0,%,High
+2047,NTDS%,%,0,%,High
+2087,NTDS%,%,0,%,High
+2088,NTDS%,%,0,%,High
+2091,NTDS%,%,0,%,High
+2089,NTDS%,%,0,%,High
+0,NTFRS,%,0,%,High
+50,Ntfs,%,0,%Windows was unable to save all the data for the file%,High
+55,Ntfs,%,0,%The file system structure on the disk is corrupt%,High
+500,PercPro,%,0,%,High
+503,PercPro,%,0,%,High
+509,PercPro,%,0,%,High
+1053,POP3 Connector,%,0,%,Critical
+7101,SEPM,Symantec Endpoint Protection Manager,0,%contains licenses that are about to expire.,%
+3005,Server ActiveSync,%,0,%Unexpected Exchange mailbox Server error%,High
+1004,Server Administrator,%,0,%Thermal shutdown protection has been initiated%,Critical
+1005,Server Administrator,%,0,%SMBIOS data is absent%,Critical
+1006,Server Administrator,%,0,%Automatic System Recovery (ASR) action was performed Action performed was%,Critical
+1007,Server Administrator,%,0,%User initiated host system control action Action requested was%,Critical
+1050,Server Administrator,%,0,%Temperature sensor has failed Sensor location%,Critical
+1051,Server Administrator,%,0,%Temperature sensor value unknown Sensor location%,Critical
+1052,Server Administrator,%,0,%Temperature sensor returned to a normal value Sensor location%,Critical
+1053,Server Administrator,%,0,%Temperature sensor detected a warning value Sensor location%,Critical
+1054,Server Administrator,%,0,%Temperature sensor detected a failure value Sensor location%,Critical
+1055,Server Administrator,%,0,%Temperature sensor detected a non-recoverable value Sensor location%,Critical
+1100,Server Administrator,%,0,%Fan sensor has failed Sensor location%,Critical
+1101,Server Administrator,%,0,%Fan sensor value unknown Sensor location%,Critical
+1102,Server Administrator,%,0,%Fan sensor returned to a normal value Sensor location%,Critical
+1103,Server Administrator,%,0,%Fan sensor detected a warning value Sensor location%,Critical
+1104,Server Administrator,%,0,%Fan sensor detected a failure value Sensor location%,Critical
+1105,Server Administrator,%,0,%Fan sensor detected a non-recoverable value Sensor location%,Critical
+1150,Server Administrator,%,0,%Voltage sensor has failed Sensor location%,Critical
+1151,Server Administrator,%,0,%Voltage sensor value unknown Sensor location%,Critical
+1152,Server Administrator,%,0,%Voltage sensor returned to a normal value Sensor location%,Critical
+1153,Server Administrator,%,0,%Voltage sensor detected a warning value Sensor location%,Critical
+1154,Server Administrator,%,0,%Voltage sensor detected a failure value Sensor location%,Critical
+1155,Server Administrator,%,0,%Voltage sensor detected a non-recoverable value Sensor location%,Critical
+1254,Server Administrator,%,0,%Chassis intrusion detected Sensor location%,Critical
+1303,Server Administrator,%,0,%Redundancy is offline Redundancy unit%,Critical
+1304,Server Administrator,%,0,%Redundancy regained Redundancy unit%,Critical
+1305,Server Administrator,%,0,%Redundancy degraded Redundancy unit%,Critical
+1306,Server Administrator,%,0,%Redundancy lost Redundancy unit%,Critical
+1350,Server Administrator,%,0,%Power supply sensor has failed Sensor location%,Critical
+1351,Server Administrator,%,0,%Power supply sensor value unknown Sensor location%,Critical
+1352,Server Administrator,%,0,%Power supply returned to normal Sensor location%,Critical
+1353,Server Administrator,%,0,%Power supply detected a warning Sensor location%,Critical
+1354,Server Administrator,%,0,%Power supply detected a failure Sensor location%,Critical
+1355,Server Administrator,%,0,%Power supply sensor detected a non-recoverable value Sensor location%,Critical
+1403,Server Administrator,%,0,%Memory device status is%,Critical
+1404,Server Administrator,%,0,%Memory device status is%,Critical
+1450,Server Administrator,%,0,%Fan enclosure sensor has failed Sensor location%,Critical
+1451,Server Administrator,%,0,%Fan enclosure sensor value unknown Sensor location%,Critical
+1452,Server Administrator,%,0,%Fan enclosure inserted into system Sensor location%,Critical
+1453,Server Administrator,%,0,%Fan enclosure removed from system Sensor location%,Critical
+1454,Server Administrator,%,0,%Fan enclosure removed from system for an extended amount of time Sensor location%,Critical
+1455,Server Administrator,%,0,%Fan enclosure sensor detected a non-recoverable value Sensor location%,Critical
+1503,Server Administrator,%,0,%AC power has been lost Sensor location%,Critical
+1504,Server Administrator,%,0,%AC power has been lost Sensor location%,Critical
+1505,Server Administrator,%,0,%AC power has been lost Sensor location%,Critical
+1604,Server Administrator,%,0,%Processor sensor detected a failure value Sensor Location%,Critical
+1605,Server Administrator,%,0,%Processor sensor detected a non-recoverable value Sensor Location%,Critical
+1652,Server Administrator,%,0,%Device removed from system Device location%,Critical
+1653,Server Administrator,%,0,%Device configuration error detected Device location%,Critical
+1703,Server Administrator,%,0,%Battery sensor detected a warning value Sensor Location%,Critical
+1704,Server Administrator,%,0,%Battery sensor detected a failure value Sensor Location%,Critical
+1705,Server Administrator,%,0,%Battery sensor detected a non-recoverable value Sensor Location%,Critical
+2048,Server Administrator,%,0,%,Critical
+2051,Server Administrator,%,0,%,Critical
+2054,Server Administrator,%,0,%,Critical
+2056,Server Administrator,%,0,%,Critical
+2057,Server Administrator,%,0,%,Critical
+2064,Server Administrator,%,2,%,High
+2076,Server Administrator,%,0,%,Critical
+2080,Server Administrator,%,0,%,Critical
+2083,Server Administrator,%,0,%,Critical
+2094,Server Administrator,%,0,%,Critical
+2100,Server Administrator,%,0,%,Critical
+2108,Server Administrator,%,0,%,High
+2122,Server Administrator,%,0,%,Critical
+2123,Server Administrator,%,0,%,Critical
+2129,Server Administrator,%,0,%,Critical
+2146,Server Administrator,%,0,%,High
+2163,Server Administrator,%,0,%,Critical
+2201,Server Administrator,%,0,%,High
+104,ServeRAID Manager Agent,%,0,%,High
+301,ServeRAID Manager Agent,%,0,%,High
+338,ServeRAID Manager Agent,%,0,%,High
+404,ServeRAID Manager Agent,%,0,%,High
+503,ServeRAID Manager Agent,%,0,%,High
+509,ServeRAID Manager Agent,%,0,%,High
+7011,Service Control Manager%,%,0,%Timeout%NtFrs service%,High
+1121,ShadowProtectSvc,%,1,%,High
+5633,SmallBusinessServer,%,0,%,High
+5634,SmallBusinessServer,%,0,%,High
+6005,smtpsvc ,%,0,%,High
+2013,Srv,%,0,%capacity%,High
+4,Symantec AntiVirus,Application,0,%,%
+5,Symantec AntiVirus,Application,0,%,%
+6,Symantec AntiVirus,Application,0,%,%
+10,Symantec AntiVirus,Application,0,%,%
+11,Symantec AntiVirus,Application,0,%,%
+13,Symantec AntiVirus,Application,0,%,%
+17,Symantec AntiVirus,Application,0,%,%
+20,Symantec AntiVirus,Application,0,%,%
+21,Symantec AntiVirus,Application,0,%,%
+22,Symantec AntiVirus,Application,0,%,%
+24,Symantec AntiVirus,Application,0,%,%
+34,Symantec AntiVirus,Application,0,%,%
+39,Symantec AntiVirus,Application,0,%,%
+40,Symantec AntiVirus,Application,0,%,%
+41,Symantec AntiVirus,Application,0,%,%
+42,Symantec AntiVirus,Application,0,%,%
+45,Symantec AntiVirus,Application,0,%,%
+46,Symantec AntiVirus,Application,0,%,%
+47,Symantec AntiVirus,Application,0,%,%
+51,Symantec AntiVirus,Application,0,%,%
+72,Symantec AntiVirus,Application,0,%,%
+73,Symantec AntiVirus,Application,0,%,%
+74,Symantec AntiVirus,Application,0,%,%
+76,Symantec AntiVirus,Application,0,%,%
+129,Symantec AntiVirus,Application,0,%,%
+34053,Symantec AntiVirus,Application,0,%,%
+34055,Symantec AntiVirus,Application,0,%,%
+101,Symantec AntiVirus,SEP,0,%,%
+84,Symantec AntiVirus,SEP,0,%,%
+201,Symantec AntiVirus,SEP,0,%,%
+202,Symantec AntiVirus,SEP,0,%,%
+203,Symantec AntiVirus,SEP,0,%,%
+4198,tcpip,%,0,%,High
+4199,tcpip,%,0,%,High
+14110,tcpip,%,0,%,High
+23,TermService,%,0,%,High
+154,TermService,%,0,%,High
+301,TermService,%,0,%,High
+1006,TermService,%,0,%,High
+1008,TermService,%,0,%,High
+1024,TermService,%,0,%,High
+3222,TermServices,%,0,%,High
+7,TermServLicensing,%,0,%,High
+13,TermServLicensing,%,0,%,High
+29,TermServLicensing,%,0,%,High
+37,TermServLicensing,%,0,%,High
+38,TermServLicensing,%,0,%,High
+41,TermServLicensing,%,0,%,High
+44,TermServLicensing,%,0,%,High
+17,TermServLicensing,System,3,%One or more Terminal Server Licensing certificates on server%,High
+2480,UPS,%,0,%,High
+2481,UPS,%,0,%The UPS service is not configured correctly%,High
+2482,UPS,%,0,%,High
+2483,UPS,%,0,%,High
+2484,UPS,%,0,%,High
+1054,userenv,%,0,%,High
+1068,userenv,%,0,%,High
+7001,VSS,%,0,%,High
+6013,VSS,%,0,%,High
+8194,VSS,%,0,%,High
+35,vxio,%,0,%Uncorrectable read error%,High
+17,w32time,%,0,%,High
+29,W32Time ,%,0,%,High
+1,WSH,%,0,%Exchange Information Store%,Critical
+0,,Application,0,,
