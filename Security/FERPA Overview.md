@@ -1,29 +1,21 @@
-FERPA Regulations Summary
+# FERPA Regulations Summary
 FERPA (Family Education Rights and Privacy Act) is a federal law which the Congress passed back in 1974 to protect educational information and records.
 
-FERPA Compliance Checklist
-you need to grant students access to their own records
+# FERPA Compliance Checklist
+* you need to grant students access to their own records
+* you need to ask for students’ permission before disclosing their records, even to their parents
+* you need to make education records ready for review within 45 days of the request
+* you mustn’t destroy an education record if someone has filed a request to view that education record
+* you need to grant parents/guardians to view records of their child, but you can’t disclose any part of that student’s records that refers to another student
+* you are obliged to provide meaningful assistance to a student/parents who can’t understand English well
+* while you’re generally not required to provide a copy of student records to a parent/student, eg in case they live outside the commuting distance of the school and can’t otherwise view the records, you do need to make it possible for them to see the records, which might include preparing a copy of the documents
+* in case a student/parent makes a request to change parts of their records, you need to address that request; however you’re not obliged to grant it
+* you shouldn’t disclose student records to a third party unless that third party has a written consent by the student/their parents
 
-you need to ask for students’ permission before disclosing their records, even to their parents
-
-you need to make education records ready for review within 45 days of the request
-
-you mustn’t destroy an education record if someone has filed a request to view that education record
-
-you need to grant parents/guardians to view records of their child, but you can’t disclose any part of that student’s records that refers to another student
-
-you are obliged to provide meaningful assistance to a student/parents who can’t understand English well
-
-while you’re generally not required to provide a copy of student records to a parent/student, eg in case they live outside the commuting distance of the school and can’t otherwise view the records, you do need to make it possible for them to see the records, which might include preparing a copy of the documents
-
-in case a student/parent makes a request to change parts of their records, you need to address that request; however you’re not obliged to grant it
-
-you shouldn’t disclose student records to a third party unless that third party has a written consent by the student/their parents
-
-Why is FERPA important?
+# Why is FERPA important?
 FERPA is important because it protects the privacy of education information and records. In a nutshell, FERPA guards the safety of students’ personal information, and governs access to these information by third parties. FERPA gives the right to parents and students older than 18 to inspect and review their personal records, which helps maintain accuracy and protect the privacy and integrity of students.
 
-Who does FERPA apply to?
+# Who does FERPA apply to?
 FERPA is important because it protects the privacy of education information and records. In a nutshell, FERPA guards the safety of students’ personal information, and governs access to these information by third parties. FERPA gives the right to parents and students older than 18 to inspect and review their personal records, which helps maintain accuracy and protect the privacy and integrity of students.
 
 # What information is protected by FERPA?
