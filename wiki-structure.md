@@ -1,3 +1,6 @@
+
+Steal stuff from here: https://www.varonis.com/guides/sysadmin/
+
 # PLAYBOOKS
 ## Maintenance Checklists
 
