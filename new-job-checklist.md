@@ -32,8 +32,6 @@ After getting your workstation, admin credentials and HR paperwork, this should 
 * Is there a DRP/BCP in place? Is it up to date? Is it practiced?
 * Is there a go-bag/oh-shit-kit somewhere with supplies and the DRP?
 
-# Documentation
-
 # Monitoring
 
 # Desired State Configuration
